@@ -1,0 +1,13 @@
+{
+  "cSpell.words": [
+    "MIKROTIK",
+    "TPLINK",
+    "Xiaomi",
+    "Xperia",
+    "routeros"
+  ],
+  "files.exclude": {
+    "node_modules": true,
+    "package-lock.json": true
+  }
+}

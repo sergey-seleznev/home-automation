@@ -1,0 +1,10 @@
+# Files to ignore on zip-deployment
+node_modules/
+.vscode/
+.git/
+.gitignore
+.runignore
+*.zip
+*.service
+*.ps1
+*.md

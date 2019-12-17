@@ -1,0 +1,14 @@
+[Unit]
+Description=Home Automation
+After=network.target
+
+[Service]
+ExecStart=npm start
+WorkingDirectory=/home/pi/home-automation
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User=pi
+
+[Install]
+WantedBy=multi-user.target
