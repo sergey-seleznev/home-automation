@@ -8,7 +8,7 @@
   "author": "Sergey Seleznev",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "dotenv-yaml": "^0.1.4",
     "routeros-client": "^0.11.0"
   }
